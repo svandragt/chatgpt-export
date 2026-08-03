@@ -11,3 +11,4 @@ wheels/
 
 # App
 *.md
+!CLAUDE.md
